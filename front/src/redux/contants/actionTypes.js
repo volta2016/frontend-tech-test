@@ -1,0 +1,5 @@
+export const actionTypes = {
+  SET_PRODUCTS: "SET_PRODUCTS",
+  ADD_PRODUCTS: "ADD_PRODUCTS",
+  REMOVE_PRODUCTS: "REMOVE_PRODUCTS",
+};
